@@ -23,8 +23,8 @@
   //  -- Mike the frog
   //  -- dating app
   //  -- monster draw
-  //  -- naomi noir (e)
-  //  -- fingerlakes on tap (e)
+  //  xx naomi noir (e)
+  //  xx fingerlakes on tap (e)
   //  -- shout it box
   //  -- php quizzer
   //  -- flag (e)
@@ -32,8 +32,8 @@
   //  -- Mike the frog
   //  -- dating app
   //  -- monster draw
-  //  -- naomi noir (e)
-  //  -- fingerlakes on tap (e)
+  //  xx naomi noir (e)
+  //  xx fingerlakes on tap (e)
   //  -- shout it box
   //  -- php quizzer
   //  -- flag (e)

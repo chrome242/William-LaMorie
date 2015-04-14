@@ -16,7 +16,8 @@
     
     <!-- Styles and Fonts -->
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>css/normalize.css">
-    <link href='http://fonts.googleapis.com/css?family=Gruppo' rel='stylesheet' type='text/css'>    <link rel="stylesheet" href="css/main.css">
+    <link href='http://fonts.googleapis.com/css?family=Gruppo' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>css/main.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>css/responsive.css">
    
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

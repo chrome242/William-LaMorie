@@ -1,6 +1,7 @@
+ 
   <body>
     <header>
-      <a href="index.html" id="logo">
+      <a href="<?php echo BASE_URL.HOME; ?>" id="logo">
         <h1>William LaMorie</h1>
         <h2>Web &amp; Application Development</h2>
       </a>
