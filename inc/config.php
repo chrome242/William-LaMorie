@@ -15,27 +15,34 @@
   define("IMG", "img/");
   define("PROJECTS", "img/projects/");
   
-  // todo:
-  // -- Move all existing files to PHP
-  // -- make everything work in PHP
-  // -- replace current pics with the new pics for the sections
-  // -- make links for projects
-  //  -- Mike the frog
-  //  -- dating app
-  //  -- monster draw
-  //  xx naomi noir (e)
-  //  xx fingerlakes on tap (e)
-  //  -- shout it box
-  //  -- php quizzer
-  //  -- flag (e)
-  // -- make subdomians for all the new sections
-  //  -- Mike the frog
-  //  -- dating app
-  //  -- monster draw
-  //  xx naomi noir (e)
-  //  xx fingerlakes on tap (e)
-  //  -- shout it box
-  //  -- php quizzer
-  //  -- flag (e)
-  // -- add new styling elements
+  // TODO:
+  // add subdomains for all projects to www.williamlamorie.com
+    // xx shirts for mike
+    // xx naomi noir(e)
+    // xx fingerlakes on tap (e)
+    // ++ flag (e)(n)
+    // -- dating app
+    // -- shoutbox
+    // -- php quizer
+    // ++ forms (n)
+    
+  // xx Move all existing files to PHP
+  // xx make everything work in PHP
+  // xx replace current pics with the new pics for the sections
+  
+  // add blurbs about projects
+  
+  // restyle the index
+    // -- shrink buttons
+    // -- add a text description of the project
+    // -- add hidden images for buttons for jQuerry to work on.
+    // -- widen the wrapper
+    // -- add a background to the top?
+    // -- add a new size of responsiveness
+    
+  // add jQuerry
+    // -- botton tops to button bottoms
+    // -- fades in and out for above
+  
+  // spell check
   
