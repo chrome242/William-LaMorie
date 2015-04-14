@@ -14,6 +14,15 @@
   // -- Move all existing files to PHP
   // -- make everything work in PHP
   // -- replace current pics with the new pics for the sections
+  // -- make links for projects
+  //  -- Mike the frog
+  //  -- dating app
+  //  -- monster draw
+  //  -- naomi noir (e)
+  //  -- fingerlakes on tap (e)
+  //  -- shout it box
+  //  -- php quizzer
+  //  -- flag (e)
   // -- make subdomians for all the new sections
   //  -- Mike the frog
   //  -- dating app
