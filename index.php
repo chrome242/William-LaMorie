@@ -10,3 +10,4 @@ include(ROOT_PATH."inc/nav.php");
 // body content
 
 // closing footer
+include(ROOT_PATH."inc/footer.php");

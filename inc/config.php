@@ -10,6 +10,11 @@
   define("ABOUT", "About/");
   define("CONTACT", "Contact/");
   
+  // image directories
+  define("GENERAL", "img/general/");
+  define("IMG", "img/");
+  define("PROJECTS", "img/projects/");
+  
   // todo:
   // -- Move all existing files to PHP
   // -- make everything work in PHP
