@@ -18,15 +18,26 @@
   /******************************
   PAGE: PORTFOLIO
   ******************************/
-  
-  #gallery li{
-    width: 28.3333%;
-  }
-  
-  #gallery li:nth-child(4n){
+  #gallery ul{
     clear: left;
   }
   
+  #gallery ul.right-row{
+    margin-left: 12.25%;
+  }
+  
+  #gallery ul.left-row{
+    margin-right: 12.25%;
+  }
+  
+  #gallery ul li{
+    width: 24.5%%;
+    margin: 0;
+  }
+  
+  #gallery ul li{
+    
+  }
   
   
   /******************************
